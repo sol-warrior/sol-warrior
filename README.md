@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I’m <strong>SolWarrior</strong></h1>
+<h1 align="center">👋 Hello, I’m <strong>Nishant</strong></h1>
 <h3 align="center">Exploring the world of <a href="https://solana.com" target="_blank">Solana</a> ⚡</h3>
 
 <p align="center">
