@@ -19,10 +19,13 @@
 
 ### 🧰 Featured Project
 [![npm version](https://img.shields.io/npm/v/@solwarrior/x402-cli?color=blue)](https://www.npmjs.com/package/@solwarrior/x402-cli)  
-**@solwarrior/x402-cli** — A developer-friendly CLI to simulate Solana x402 micropayments  
-*More open-source tools coming soon.*
+1. [**@solwarrior/x402-cli**](https://www.npmjs.com/package/@solwarrior/x402-cli) — A developer-friendly CLI to simulate Solana x402 transactions  
+
+2. [**Tip**](https://github.com/School-of-Solana/program-sol-warrior/blob/main/PROJECT_DESCRIPTION.md) - Tip lets builders receive SOL tips easily, and supporters send them fast with clear vault details on solana.
 
 ---
+
+
 
 ### 🎬 Latest on YouTube
 <!-- YOUTUBE:START -->
