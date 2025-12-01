@@ -14,7 +14,7 @@
 - GitHub → <a href="https://github.com/sol-warrior" target="_blank">sol-warrior</a>  
 - npm identity → <a href="https://www.npmjs.com/~solwarrior-dev" target="_blank">solwarrior-dev</a>  
 - X (Twitter) → <a href="https://x.com/warriorofsol" target="_blank">@warriorofsol</a>  
-
+- Email → <a href="mailto:solwarrior0@gmail.com">solwarrior0@gmail.com</a>
 ---
 
 ### 🧰 Featured Project
