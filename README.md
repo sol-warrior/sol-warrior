@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hey there, I'm <strong>Nishant</strong></h1>
 <h3 align="center">Building and sharing in the <a href="https://solana.com" target="_blank">Solana</a> ecosystem ⚡</h3>
 
-<p align="center">
+<p align="center" margin-bottom="5rem">
 🎥 Open-source tools • Code • Learnings<br>
 👨‍💻 Let’s collaborate and grow the Solana space<br>
 📺 <strong>YouTube:</strong> <a href="https://www.youtube.com/@warrior-of-sol" target="_blank">@warrior-of-sol</a>
 </p>
 
----
+
+<br/>
 
 ### ✨ About
 - Exploring Solana development, Web3 tooling, and open education.  
@@ -15,7 +16,15 @@
 - npm identity → <a href="https://www.npmjs.com/~solwarrior-dev" target="_blank">solwarrior-dev</a>  
 - X (Twitter) → <a href="https://x.com/warriorofsol" target="_blank">@warriorofsol</a>  
 - Email → <a href="mailto:solwarrior0@gmail.com">solwarrior0@gmail.com</a>
----
+
+<br/>
+
+### 🏆 Solana Projects ([School of Solana Graduate](https://github.com/School-of-Solana))
+
+View all my projects from the programme:
+→ https://github.com/sol-warrior/school-of-solana-graduate
+
+<br/>
 
 ### 🧰 Featured Project
 [![npm version](https://img.shields.io/npm/v/@solwarrior/x402-cli?color=blue)](https://www.npmjs.com/package/@solwarrior/x402-cli)  
@@ -23,9 +32,7 @@
 
 2. [**Tip**](https://github.com/sol-warrior/Tip) - Tip lets builders receive SOL tips easily, and supporters send them fast with clear vault details on solana.
 
----
-
-
+<br/>
 
 ### 🎬 Latest on YouTube
 <!-- YOUTUBE:START -->
@@ -48,7 +55,7 @@
 </p>
 
 
----
+<br/>
 
 ### 🤝 Collaborate
 I’m open to partnerships, community initiatives, and open-source contributions.  
@@ -56,7 +63,7 @@ Let’s build something valuable together — DM me on X or start a discussion i
 
 
 
----
+<br/>
 
 
 <p align="center">
