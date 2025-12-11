@@ -27,18 +27,20 @@
 
 <br/>
 
+
 ## 💪 Proof of Work  
-#### [See my PRs (merged + active)](https://gist.github.com/sol-warrior/6d07a9dc9cec6d07ce596e02ea246409)
- 
+Prefer proof over promises? Here’s my work.
+
+[![Solana Smart Contracts](https://img.shields.io/badge/Solana%20Smart%20Contracts-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solana-smart-contracts)
+[![Notable PRs](https://img.shields.io/badge/Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/sol-warrior/6d07a9dc9cec6d07ce596e02ea246409)
+[![Learning Hub](https://img.shields.io/badge/Learning%20Hub%20(Solana%20+%20Rust)-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
 
 
-<br/>
+#### 📌 Pinned work
 
-### 🧰 Featured Project
-[![npm version](https://img.shields.io/npm/v/@solwarrior/x402-cli?color=blue)](https://www.npmjs.com/package/@solwarrior/x402-cli)  
-1. [**@solwarrior/x402-cli**](https://www.npmjs.com/package/@solwarrior/x402-cli) — A developer-friendly CLI to simulate Solana x402 transactions  
+[![Solana Tip dApp](https://img.shields.io/badge/Solana%20Tip%20dApp-f1c40f?style=flat-square&logo=solana&logoColor=black)](https://github.com/sol-warrior/Tip)
+[![Solana x402 CLI](https://img.shields.io/badge/Solana%20x402%20CLI-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/x402-cli)
 
-2. [**Tip**](https://github.com/sol-warrior/Tip) - Tip lets builders receive SOL tips easily, and supporters send them fast with clear vault details on solana.
 
 <br/>
 
