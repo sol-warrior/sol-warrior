@@ -28,8 +28,9 @@
 <br/>
 
 ## 💪 Proof of Work  
-A curated list of my open-source contributions, merged PRs, and active work:  
-👉 https://gist.github.com/sol-warrior/6d07a9dc9cec6d07ce596e02ea246409
+#### [See my PRs (merged + active)](https://gist.github.com/sol-warrior/6d07a9dc9cec6d07ce596e02ea246409)
+ 
+
 
 <br/>
 
