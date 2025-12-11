@@ -19,10 +19,17 @@
 
 <br/>
 
-### 🏆 Solana Projects ([School of Solana Graduate](https://github.com/School-of-Solana))
+### 🏆 Solana Grads:
+1.  ([School of Solana Graduate](https://github.com/School-of-Solana))
+       - See all projects from programme → https://github.com/sol-warrior/school-of-solana-graduate
 
-View all my projects from the programme:
-→ https://github.com/sol-warrior/school-of-solana-graduate
+
+
+<br/>
+
+## 💪 Proof of Work  
+A curated list of my open-source contributions, merged PRs, and active work:  
+👉 https://gist.github.com/sol-warrior/6d07a9dc9cec6d07ce596e02ea246409
 
 <br/>
 
