@@ -61,6 +61,25 @@ Open-source contributor | Full-stack Solana developer
 
 <br/>
 
+
+
+<p align="center">
+  <strong>Main:</strong> <a href="https://github.com/nishantcoder108">nishantcoder108</a> •
+  <strong>Secondary:</strong> <a href="https://github.com/sol-warrior">sol-warrior</a>
+</p>
+
+<p align="center">
+  <em>I use both GitHub accounts. Everything you see across them is my own work.</em>
+</p>
+
+
+
+<br/>
+
+
+
+
+
 ## Proof of Work  
 Prefer proof over promises? Here’s my work.
 
