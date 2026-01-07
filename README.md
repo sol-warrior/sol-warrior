@@ -30,9 +30,8 @@ Prefer proof over promises? Here’s my work.
 
 [![Solana Smart Contracts](https://img.shields.io/badge/Solana%20Smart%20Contracts-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solana-smart-contracts)
 [![Notable PRs](https://img.shields.io/badge/Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/NishantCoder108/703b3d71c28e606c83e17a30ccfbc1ee)
-[![Learning Hub](https://img.shields.io/badge/Learning%20Hub%20(Solana%20+%20Rust)-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
+[![Solana & Rust Playground](https://img.shields.io/badge/Solana%20&%20Rust%20Playground-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
 [![Rust in Practice](https://img.shields.io/badge/Rust%20in%20Practice-6f3aff?style=flat-square&logo=rust&logoColor=white)](https://github.com/NishantCoder108/rust-in-practice)
-
 
 
 #### Selected Projects
