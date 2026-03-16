@@ -23,11 +23,11 @@ Open-source contributor | Full-stack Solana developer
 </p>
 
 -->
-<br/>
+
 
 
 <div align="center">
-  <h1>Proof of Work</h1>
+  <h2>Proof of Work</h2>
   <p> </p>Prefer proof over promises? Here’s my work. </p>
 
   [![Solana Smart Contracts](https://img.shields.io/badge/Solana%20Smart%20Contracts-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solana-smart-contracts)
