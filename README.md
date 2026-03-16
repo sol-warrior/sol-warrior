@@ -1,19 +1,19 @@
-<h1 align="center">👋 Hey there, I'm <strong>Nishant</strong> </h1>
-<p align="center" margin-bottom="5rem">
+<!-- <h1 align="center">👋 Hey there, I'm <strong>Nishant</strong> </h1> -->
+<!-- <p align="center" margin-bottom="5rem">
 Open-source contributor | Full-stack Solana developer
-</p>
+</p> -->
 
 <p align="center" margin-bottom="1rem">
   <img src="https://komarev.com/ghpvc/?username=sol-warrior&label=Profile%20Views&color=6f3aff&style=flat-square" alt="profile views" />
 </p>
 
-<div align="center">   
+<!-- <div align="center">   
        <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/@warriorofsol-gray?style=for-the-badge&logo=x&logoColor=white"/></a>
- </div>    
+ </div>     
 
 <br/>
 
-<p align="center">
+ <p align="center">
   <strong>Main:</strong> <a href="https://github.com/nishantcoder108">nishantcoder108</a> •
   <strong>Secondary:</strong> <a href="https://github.com/sol-warrior">sol-warrior</a>
 </p>
@@ -22,18 +22,24 @@ Open-source contributor | Full-stack Solana developer
   <em>I use both GitHub accounts. Everything you see across them is my own work.</em>
 </p>
 
-
+-->
 <br/>
 
-## Proof of Work  
-Prefer proof over promises? Here’s my work.
 
-[![Solana Smart Contracts](https://img.shields.io/badge/Solana%20Smart%20Contracts-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solana-smart-contracts)
+<div align="center">
+  <h1>Proof of Work</h1>
+  <p> </p>Prefer proof over promises? Here’s my work. </p>
+
+  [![Solana Smart Contracts](https://img.shields.io/badge/Solana%20Smart%20Contracts-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solana-smart-contracts)
 [![Notable PRs](https://img.shields.io/badge/Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/NishantCoder108/703b3d71c28e606c83e17a30ccfbc1ee)
 [![Solana & Rust Playground](https://img.shields.io/badge/Solana%20&%20Rust%20Playground-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
 [![Rust in Practice](https://img.shields.io/badge/Rust%20in%20Practice-6f3aff?style=flat-square&logo=rust&logoColor=white)](https://github.com/NishantCoder108/rust-in-practice)
 
 
+</div>
+
+
+<!--
 #### Selected Projects
 
 [![Tip dApp](https://img.shields.io/badge/Tip%20dApp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/Tip)
@@ -111,3 +117,5 @@ Let’s connect:
 <a href="mailto:solwarrior0@gmail.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~solwarrior-dev" target="_blank"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
 </p>
+
+ -->
